@@ -1,0 +1,67 @@
+PMID,method_type,extracted_methods
+33370644,computer vision,"cnn, convolutional neural network"
+33094700,computer vision,"cnn, convolutional neural network"
+32733596,computer vision,convolutional neural network
+29056541,computer vision,"cnn, convolutional neural network"
+39135162,computer vision,"cnn, lstm"
+39131104,text mining,"transformer, bert"
+38971085,other,lstm
+38963973,computer vision,gnn
+38613630,other,
+37920421,computer vision,"cnn, convolutional neural network"
+37862318,computer vision,lstm
+37652006,computer vision,transformer
+37374292,computer vision,
+37304840,computer vision,
+37304045,other,
+37128461,other,lstm
+36913401,other,lstm
+36612939,other,lstm
+36263000,computer vision,"cnn, lstm"
+35780211,computer vision,cnn
+34713592,computer vision,cnn
+34465820,both,lstm
+34454080,other,"rnn, transformer"
+34306171,computer vision,"cnn, lstm"
+34160596,both,lstm
+34099048,computer vision,
+33357242,computer vision,"cnn, convolutional neural network"
+32941452,other,lstm
+32870314,other,rnn
+32774444,computer vision,"cnn, convolutional neural network"
+32498641,computer vision,cnn
+31912788,computer vision,cnn
+31856342,computer vision,cnn
+31817385,computer vision,cnn
+29070762,other,lstm
+36998290,text mining,"transformer, bert"
+39333964,other,lstm
+38496387,computer vision,"cnn, lstm, convolutional neural network"
+38253998,other,lstm
+38102558,other,lstm
+37787059,other,lstm
+37246539,other,lstm
+36702072,computer vision,"cnn, convolutional neural network"
+35606725,other,lstm
+35576109,other,"rnn, lstm"
+35575954,computer vision,"cnn, convolutional neural network"
+34797822,other,
+34782835,both,
+34200378,other,lstm
+33985947,computer vision,convolutional neural network
+31884865,computer vision,cnn
+31513364,computer vision,cnn
+30707177,computer vision,"cnn, convolutional neural network"
+29986843,computer vision,"cnn, convolutional neural network"
+29480983,other,
+29034992,computer vision,cnn
+28529607,computer vision,cnn
+27538955,other,
+25759968,computer vision,cnn
+22611440,computer vision,cnn
+12846935,other,
+11846893,other,
+8315682,other,
+1391994,other,
+4050864,computer vision,cnn
+39087069,other,transformer
